@@ -1,0 +1,23 @@
+RECEIVER Turn up volume to 25
+RECEIVER Turn up the volume
+RECEIVER Change the input to HDMI 3
+RECEIVER Change the input to PS3
+RECEIVER Switch to XBOX360
+CABLE Change the channel to channel 68
+CABLE Tune to channel 68
+SEARCH Define Native American
+SEARCH What does New Hampshire mean
+SEARCH Wiki Monks Mound
+SEARCH Google Mississippi
+COMPUTER Open the file awesome
+COMPUTER Open the application itunes
+COMPUTER Play The Glitch Mob album
+COMPUTER Play Drive it like you stole it
+THERMOSTAT change the temperature to 75 degrees
+THERMOSTAT turn down the heat to 68 degrees
+THERMOSTAT turn down the a c to 70 degrees
+THERMOSTAT turn down the air conditioning to 70 degrees
+THERMOSTAT turn the temperature down 5 degrees
+COMPUTER Play stereo thermostat channel 68
+SEARCH Who is the most awesome person in the whole world
+SEARCH When was the videogame CRIME created?
